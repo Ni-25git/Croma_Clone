@@ -1,6 +1,24 @@
 # Croma_Clone
 # •Welcome to our Croma eCommerce clone project, built using React JS, JavaScript, JSX, HTML, CSS, Tailwind CSS, and Chakra UI. This project is designed to replicate the seamless shopping experience of Croma, with a strong emphasis on responsive design that ensures optimal performance across mobile, tablet, and desktop devices.
 
+# DeployedLink
+# https://croma-clone-tawny.vercel.app/
+
+# HomePage
+# ![Screenshot 2024-10-14 175419](https://github.com/user-attachments/assets/0846543f-47eb-44a9-b9d6-3511478cf808)
+
+
+# Navbar
+# ![Screenshot 2024-10-14 175755](https://github.com/user-attachments/assets/fd38ffdd-d662-4727-8b5d-d71a9d6dabca)
+
+# UserDashboard
+# ![Screenshot 2024-10-14 175448](https://github.com/user-attachments/assets/071f7ec9-4c22-43f7-98f8-06142ea20b8a)
+
+
+
+# Footer
+# ![Screenshot 2024-10-14 175506](https://github.com/user-attachments/assets/7eacc8ce-1197-45c6-89ca-97ead0dcc1ed)
+
 # Frontend:
 # •React JS: A JavaScript library for building user interfaces.
 # •JavaScript: A programming language used for dynamic website functionalities.
